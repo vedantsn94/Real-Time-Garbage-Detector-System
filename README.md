@@ -57,6 +57,10 @@ Or deploy to **Railway**, **Render**, or **Fly.io** — all support FastAPI apps
 
 ---
 
+## Screenshots
+<img width="1896" height="915" alt="Screenshot 2026-05-28 115818" src="https://github.com/user-attachments/assets/5f78bbc1-e7fd-4938-8c57-93325b7e3d47" />
+<img width="1896" height="906" alt="Screenshot 2026-05-28 115914" src="https://github.com/user-attachments/assets/6d78cd4b-7dc2-4ec4-bf89-f3156f4b4481" />
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
