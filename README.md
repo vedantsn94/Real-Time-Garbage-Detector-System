@@ -6,14 +6,14 @@ A real-time garbage detection website powered by YOLOv8 + FastAPI.
 
 ```
 GarbageDetector/
-├── main.py              ← FastAPI backend (replaces app.py)
+├── main.py            
 ├── requirements.txt
 ├── static/
-│   └── index.html       ← Frontend website
+│   └── index.html       
 ├── Weights/
-│   └── best.pt          ← Your trained model (already here)
-├── Media/               ← Test images/videos (already here)
-└── Detected_Images/     ← Auto-created; saved frames go here
+│   └── best.pt          
+├── Media/               
+└── Detected_Images/     
 ```
 
 ## Setup
